@@ -39,6 +39,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuMapper, SysMenu>
                 resultMenuList.add(sysMenu);
             }
         }
+         System.out.println(resultMenuList);
         return resultMenuList;
     }
 
