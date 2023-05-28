@@ -43,6 +43,7 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuMapper, SysMenu>
          System.out.println("------=======");
          System.out.println("===========aaa");
          System.out.println("wqer======");
+         System.out.println(" =====push commit");
         return resultMenuList;
     }
 
