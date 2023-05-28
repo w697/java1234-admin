@@ -46,7 +46,10 @@ public class SysMenuServiceImpl extends ServiceImpl<SysMenuMapper, SysMenu>
          System.out.println(" =====push commit");
          System.out.println("=====pull commit");
          System.out.println("=====pull committttt");
-        return resultMenuList;
+         System.out.println("=====pullllll commit");
+
+
+         return resultMenuList;
     }
 
 }
